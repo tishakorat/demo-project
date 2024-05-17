@@ -1,0 +1,9 @@
+.is-error{
+    border-color: red;
+} 
+
+.error{
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
